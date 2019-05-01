@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 THis is a test
+=======
+Hii
+>>>>>>> 0ec07ac29e85e284b4da36ec10cf891e2d6ba7d8
